@@ -6,3 +6,5 @@ My contributions:
   - The layers feature
   - Helped develop the load feature
   - Helped develop the loop/animation feature
+
+Application Developed with Dana Ahn, Roberto Del Rosario, Kevin Matsui, Ethan Falconer
